@@ -6,5 +6,7 @@ The result should be printed on the screen as well as into a file. <br>
 Uploaded seperetate is: <br>
   a) the submited pdf file <br>
   b) the tex file(Note that tuse of Latex was not required but prefered for this course). <br>
-  c) The output as a picture <br>
-  d) the entire folder as a zip<br>
+  c) The main code file in C <br>
+  d) The text file where data was outputed <br>
+  e) The output as a picture <br>
+  f) The entire folder as a zip<br>
